@@ -1,1 +1,1 @@
-# js async programming and fetch -- template for future reference
+# js async programming and fetch -- note for future reference
